@@ -1,0 +1,23 @@
+{
+  "name": "RS Sports Highlights",
+  "short_name": "RS Sports",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#ff5722",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://rasel954.github.io/pwa/watermark_removed_HD.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://rasel954.github.io/pwa/watermark_removed_HD.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
